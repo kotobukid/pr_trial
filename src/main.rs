@@ -1,3 +1,7 @@
+fn say_hello(name: &str) -> () {
+    println!("Hello, {name}!")
+}
+
 fn main() {
-    println!("Hello, world!");
+    say_hello("world")
 }
