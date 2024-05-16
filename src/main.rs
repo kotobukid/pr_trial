@@ -12,6 +12,7 @@ pub fn add_u8(a: u8, b: u8) -> u8 {
 
 fn main() {
     println!("Hello, world!");
+    println!("Hello, world!(2)");
     say_hello("Taro");
 
     say_goodbye()
