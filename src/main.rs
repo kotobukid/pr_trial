@@ -8,6 +8,7 @@ fn say_hello(name: &str) -> () {
 
 fn main() {
     println!("Hello, world!");
+    println!("Hello, world!(2)");
 
     say_goodbye()
 }
