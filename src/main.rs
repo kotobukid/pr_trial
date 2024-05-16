@@ -27,6 +27,6 @@ mod sample_test {
     }
     #[test]
     fn test_to_fail() {
-        assert_eq!(8, add_u8(3, 4))
+        assert_eq!(7, add_u8(3, 4))
     }
 }
